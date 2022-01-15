@@ -5,7 +5,7 @@
 ## 简介
 使用 fpCefSharp，你可以为你的 Visual FoxPro 应用程序添加一个现代浏览器。它是CefSharp的一个封装，它使用.NET应用程序封装了CEF。要在一个表单中托管浏览器控件，你需要一个 fpDotNet 的实例。
 
-更多的细节可以在我的[Virtual FoxFest 2020 白皮书](https://github.com/cwollenhaupt/fpCefSharp/blob/master/Demos/Files/Wollenhaupt_Browser.pdf) 和 [我的会议记录](https://www.youtube.com/watch?v=hf5pQKOb0n4)中找到。 
+更多的细节可以在我的[Virtual FoxFest 2020 白皮书（英文）](https://github.com/vfp9/fpCefSharp/blob/master/Demos/Files/Wollenhaupt_Browser.pdf) [简体中文](https://github.com/vfp9/fpCefSharp/blob/master/Demos/Files/%E7%8E%B0%E4%BB%A3%E7%9A%84%20WEB%20%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8E%A7%E4%BB%B6.pdf)和 [我的会议记录](https://www.youtube.com/watch?v=hf5pQKOb0n4)中找到。 
 
 ## 使用方法简介
 
